@@ -1,4 +1,5 @@
 <h1 align="center">Hi World, I'm Prashanna GC 👋</h1>
+![MasterHead](https://i0.wp.com/redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif?resize=840%2C368&is-pending-load=1#038;ssl=1)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=prashangc alt=prashangc/> </p>
 I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
 
