@@ -22,7 +22,7 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 
 ## **Connect with me:** 
 <p align="left">  
-[<img align="left" alt="Prashan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/youtube.svg" />](https://www.linkedin.com/in/prashan-gc-074ab618b/)
+[<img align="left" alt="Prashan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/youtube.svg" />][https://www.linkedin.com/in/prashan-gc-074ab618b/]
 <a href="https://www.facebook.com/prashangc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prashanna GC" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prashan.jpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanna GC" height="30" width="40" /></a>
 </p>
