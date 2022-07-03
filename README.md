@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi World, I'm Prashanna GC 👋
 
-<!--
-**prashangc/prashangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
 
-Here are some ideas to get you started:
+Updates:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I recently completed my final year of Computer Science major
+- 🌱 I’m currently learning Flutter and Django
+- 👯 I’m looking to collaborate on Software Development
+- 💬 Ask me about Flutter, Python, Java, C# 
+- 📫 How to reach me: [Connect](https://www.linkedin.com/in/prashan-gc-074ab618b/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Aa a kid, I sincerely believed Doraemon was real
+
+
