@@ -35,3 +35,12 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashangc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Pinned Card** 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashangc&repo=Digital-Doctor&show_owner=true&theme=radical)](https://github.com/prashangc/Digital-Doctor)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashangc&repo=Complete-Social-Media-Demo-App&show_owner=true&theme=radical)](https://github.com/prashangc/Complete-Social-Media-Demo-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashangc&repo=Disease-Prediction-based-of-User-Symptoms-AI-Application-&show_owner=true&theme=radical)](https://github.com/prashangc/Disease-Prediction-based-of-User-Symptoms-AI-Application-)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashangc&repo=Instagram_DB&show_owner=true&theme=radical)](https://github.com/prashangc/Instagram_DB)
+
+
