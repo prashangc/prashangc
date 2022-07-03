@@ -1,5 +1,5 @@
 <h1 align="center">Hi World, I'm Prashanna GC 👋</h1>
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=prashangc alt=prashangc/> </p>
 I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
 
 **Updates:**
