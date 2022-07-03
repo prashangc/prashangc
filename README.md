@@ -1,7 +1,7 @@
 <h1 align="center">Hi World, I'm Prashanna GC 👋</h1>
 
 I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashangc&label=Profile%20views&color=0e75b6&style=flat" alt="nabingrz" /> </p>
 <img align="right" alt="prashan" height="320" width="300" src="https://user-images.githubusercontent.com/65788327/177040611-20f3c8f5-18ff-4c9d-8f12-2e8bb17c9b85.gif"></img>
 
 **Updates:**
