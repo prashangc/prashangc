@@ -27,5 +27,6 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 </p>
 
 <h3 align="left">Stats</h3>
+
 ![Prashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashangc&show_icons=true&theme=radical)
 
