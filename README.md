@@ -26,7 +26,10 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 <a href="https://www.instagram.com/prashan.jpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanna GC" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Stats</h3>
+<h4 align="left">Stats</h4>
 
 ![Prashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashangc&show_icons=true&theme=radical)
 
+<h5 align="left">Most Language Used</h5>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashangc)](https://github.com/anuraghazra/github-readme-stats)
