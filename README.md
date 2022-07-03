@@ -1,5 +1,4 @@
 <h1 align="center">Hi World, I'm Prashanna GC 👋</h1>
-![MasterHead](https://i0.wp.com/redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif?resize=840%2C368&is-pending-load=1#038;ssl=1)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=prashangc alt=prashangc/> </p>
 I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
 
@@ -28,10 +27,12 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 <a href="https://www.instagram.com/prashan.jpg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prashanna GC" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Stats</h4>
+## **Stats** 
 
 ![Prashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashangc&show_icons=true&theme=radical)
 
-<h5 align="left">Most Language Used</h5>
+## **Most Language Used** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashangc)](https://github.com/anuraghazra/github-readme-stats)
+
+## **Pinned Card** 
