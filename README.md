@@ -1,5 +1,4 @@
 <h1 align="center">Hi World, I'm Prashanna GC 👋</h1>
-<h3 align="center">A passionate full stack developer from Nepal</h3>
 
 I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
 
