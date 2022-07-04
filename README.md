@@ -18,6 +18,7 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 
 - 📌 [Digital Doctor](https://github.com/prashangc/Digital-Doctor)
 - 📌 [Disease Prediction](https://github.com/prashangc/Disease-Prediction-based-of-User-Symptoms-AI-Application-)
+- 📌 [Customer Management Web-App](https://github.com/prashangc/Customer-Management-Web-App)
 - 📌 [Social Media Flutter Application](https://github.com/prashangc/Complete-Social-Media-Demo-App)
 - 📌 [Instagram Clone App](https://github.com/prashangc/Instagram_DB)
 - 📌 [Nabil Bank App UI](https://github.com/prashangc/Nabil-Bank-App-UI)
