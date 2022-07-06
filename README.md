@@ -23,6 +23,10 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 - 📌 [Instagram Clone App](https://github.com/prashangc/Instagram_DB)
 - 📌 [Nabil Bank App UI](https://github.com/prashangc/Nabil-Bank-App-UI)
 
+## **Latest Blog Posts** 
+
+- 📖 [Flutter Questions](https://medium.com/@prashannagc11/flutter-interview-questions-7137b12f4aee)
+
 ## **Connect with me:** 
 
 <p align="left">  
