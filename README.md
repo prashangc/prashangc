@@ -25,7 +25,7 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 
 ## **Latest Blog Posts** 
 
-- ✍️ [Flutter Questions](https://medium.com/@prashannagc11/flutter-interview-questions-7137b12f4aee)
+- ✒️ [Flutter Questions](https://medium.com/@prashannagc11/flutter-interview-questions-7137b12f4aee)
 
 ## **Connect with me:** 
 
