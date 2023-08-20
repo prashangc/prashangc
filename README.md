@@ -26,6 +26,7 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 ## **Latest Blog Posts** 
 
 - ✒️ [Flutter Questions](https://medium.com/@prashannagc11/flutter-interview-questions-7137b12f4aee)
+- ✒️ [Dart Variables and Differences between dynamic, var, final and const.](https://medium.com/@prashannagc11/1-types-of-dart-variables-6c7228baf36c) 
 
 ## **Connect with me:** 
 
