@@ -25,6 +25,7 @@ I'm Prashanna GC, a passionate full stack developer from Nepal looking forward t
 
 ## **Latest Blog Posts** 
 
+- ✒️ [Dart Functions — Anonymous Functions, Positional & Named Parameters, Lambdas, Closures and Scope](https://medium.com/@prashannagc11/dart-functions-anonymous-functions-positional-named-parameters-lambdas-closures-and-scope-757a20553c6f)
 - ✒️ [Dart Built-in Types - num, int, double, String, List, Set, Map & Runes](https://medium.com/@prashannagc11/dart-built-in-types-num-int-double-string-list-set-map-runes-ea5d138998c7)
 - ✒️ [Dart Variables and Differences between dynamic, var, final and const.](https://medium.com/@prashannagc11/1-types-of-dart-variables-6c7228baf36c)
 - ✒️ [Flutter Questions](https://medium.com/@prashannagc11/flutter-interview-questions-7137b12f4aee)
