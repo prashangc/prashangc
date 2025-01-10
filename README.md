@@ -1,15 +1,15 @@
 <h1 align="center">Hello World, I'm Prashanna GC 👋</h1>
 
-I'm Prashanna GC, a passionate full stack developer from Nepal looking forward to gain new experience and skills for professional growth in collaboration, communication and development as programmer while striving to contribute in any way possible.
+I'm Prashanna GC, a passionate Flutter Developer from Nepal with 3 years of professional experience. I'm eager to enhance my skills in collaboration, communication, and development while contributing effectively to projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashangc&label=Profile%20views&color=0e75b6&style=flat" alt="nabingrz" /> </p>
 <img align="right" alt="prashan" height="320" width="300" src="https://user-images.githubusercontent.com/65788327/177040611-20f3c8f5-18ff-4c9d-8f12-2e8bb17c9b85.gif"></img>
 
 **Updates:**
 
-- 🔭 I recently completed my final year of Computer Science major
-- 🌱 I’m currently learning Flutter and Django
-- 👯 I’m looking to collaborate on Software Development
-- 💬 Ask me about Flutter, Python, Java, C# 
+- 🔭 I'm a Bsc.(Hons) computing graduate.
+- 🌱 I’m currently refining my expertise in Flutter focusing on GetX, Riverpod, and Bloc state management.
+- 👯 I’m looking to collaborate on Mobile Application Development.
+- 💬 Ask me about Flutter, Android, Swift-IOS, MERN Stack 
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/prashan-gc-074ab618b/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Aa a kid, I sincerely believed Doraemon was real
