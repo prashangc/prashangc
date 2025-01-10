@@ -7,7 +7,7 @@ I'm Prashanna GC, a passionate Flutter Developer from Nepal with 3 years of prof
 **Updates:**
 
 - 🔭 I'm a Bsc.(Hons) computing graduate.
-- 🌱 I’m currently refining my expertise in Flutter focusing on GetX, Riverpod, and Bloc state management.
+- 🌱 My favorite state management solutions are GetX, Riverpod, and Bloc.
 - 👯 I’m looking to collaborate on Mobile Application Development.
 - 💬 Ask me about Flutter, Android, Swift-IOS, MERN Stack 
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/prashan-gc-074ab618b/)
